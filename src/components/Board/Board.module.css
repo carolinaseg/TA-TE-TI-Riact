@@ -1,0 +1,18 @@
+.BoardRow {
+    content: "";
+    display: table;
+    
+  }
+
+ .Board{
+    width: 450px;
+    height: 450px;
+    margin-left: 250px;
+    padding: 30px;
+    font-weight: bold;
+    font-size: 1.2rem;
+    top: 60px;
+    background-color: aqua;
+    position: relative;
+}
+

@@ -1,0 +1,28 @@
+.Title {
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  font-size: 50px;
+  color: coral;
+  text-align: center;
+  padding: 10px;
+}
+
+.Status {
+  background-color: cornflowerblue;
+  width: 500px;
+  height: 90px;
+  position: relative;
+  margin-left: 890px;
+  top: -450px;
+  
+}
+
+.Move{
+  background-color: coral;
+  width: 420px;
+  height: 200px;
+  position: relative;
+  margin-left: 890px;
+  top: -450px;
+  padding: 40px;
+  
+}
